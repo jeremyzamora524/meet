@@ -83,7 +83,7 @@ Then on top of the list a chart that visualizes the type of upcoming events will
 ### ... as a developer, who wants to work with the project
 1. Clone or download repository ...
 ```bash
-git clone https://github.com/F3NJ0/meet-app.git
+git clone https://github.com/jeremyzamora524/meet.git
 ```
 
 2. Connect to your github pages 
@@ -102,7 +102,8 @@ npm run deploy
 ```
 
 ### ... to access the already hostet the live app:
-https://f3nj0.github.io/meet-app/ 
+https://jeremyzamora524.github.io/meet
+/ 
 
 ## Technical Requirements (according to project brief)
 * React application
